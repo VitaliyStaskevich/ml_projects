@@ -7,3 +7,5 @@ Streamlit is used for visualization.
 [Convolutional Neual Network](https://github.com/VitaliyStaskevich/ml_projects/tree/main/CNN)
 
 [Image Segmentation](https://github.com/VitaliyStaskevich/ml_projects/tree/main/Image_Segmentation)
+
+[YOLO segmentation](https://github.com/VitaliyStaskevich/ml_projects/tree/main/YOLO)
